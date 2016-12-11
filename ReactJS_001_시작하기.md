@@ -71,11 +71,12 @@ script들 중 맨 아래에는 app.js도 추가되어있습니다.
 
 Hello World 가 보이시나요?
 
-역시 시작은 헬로월드가 제맛이죠. 
+역시 시작은 헬로월드가 제맛이죠.
 오늘은 간단하게 여기까지~ 다음 포스트에서 계속 알아보도록 하겠습니다.
 
 
-
+[소스보기](https://github.com/sonim1/react_tutorial/blob/master/source/react_start_001/index.html)
+[데모보기](https://rawgit.com/sonim1/react_tutorial/master/source/react_start_001/index.html)
 
 
 
