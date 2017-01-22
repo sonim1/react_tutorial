@@ -107,6 +107,12 @@ function tryConvert(value, convert) {
 만일 value가 숫자형식이 아니면 공백을 return해 줍니다.
 
 ## 상태 올리기
+
+[소스보기](https://github.com/sonim1/react_tutorial/tree/master/source/react_start_010)
+[데모보기](https://rawgit.com/sonim1/react_tutorial/master/source/react_start_010/index.html)
+
+
+
 상태 올리기의 원리는 간단합니다.
 하위 Component에 props로 상위 Component의 함수를 전달해 주고, 하위 Component 에서는 그 함수를 호출하는 것입니다.
 여기서 중요한건 위와 별개로 State가 상단에서 관리되어야 한다는 것입니다.
@@ -237,6 +243,6 @@ BoilingVerdict 컴퍼넌트는 celsius를 이용하여 온도에 따른 텍스�
 
 # 마치며
 다시 공부하면서 React의 이런 부분을 보니 Redux를 왜 쓰는지 다시한번 생각하게 되네요.
-다음포스트에서는 OOP의 개념으로 많이 유명한 Composition(합성)과 Inheritance(상속)에 대해서 알아보겠습니다.
+다음 포스트에서는 OOP의 개념으로 많이 유명한 Composition(합성)과 Inheritance(상속)에 대해서 React의 관점으로 어떻게 사용하는지 알아보겠습니다.
 
-즐프하세요
+즐프하세요!
